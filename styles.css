@@ -1,3 +1,8 @@
+.text {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 #title {
     background-color: black;
     color: white;
